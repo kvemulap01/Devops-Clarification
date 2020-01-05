@@ -141,3 +141,6 @@ DevOps (SonarQube): Basic points to remember:
 7. All of the ports used by the Chef server are TCP ports.
 8. A handler is used to identify situations that arise during a chef-client run and then tell the chef-client how to handle these situations when they occur.
 9. Chef push jobs uses the Chef server API and a Ruby client to initiate all connections to the Chef server. A knife plugin is used to initiate job creation and job tracking.
+
+
+10
